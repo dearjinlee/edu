@@ -1,5 +1,11 @@
 # ssu 2021/02/01 ~ 05 교육 자료
 
+## 전이학습 카메라로 이미지 준비하기
+```
+cp /home/deepcell/notebook/3.tl/1-tl-data.ipynb /home/deepcell/notebook/3.tl/inference/
+mkdir /home/deepcell/notebook/3.tl/inference/data
+```
+
 ## 트레이닝 히스토리를 그래프로 그리기
 
 ### jupyter lab에서 나래와 같이 수정 및 추가
