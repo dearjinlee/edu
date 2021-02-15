@@ -3,3 +3,6 @@
 ```
 git clone https://github.com/starcell/edu-1-spam.git
 ```
+```
+./edu-1-spam/edu-spam-notebook.sh
+```
