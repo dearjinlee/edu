@@ -6,3 +6,12 @@ git clone https://github.com/starcell/edu-1-spam.git
 ```
 ./edu-1-spam/edu-spam-notebook.sh
 ```
+
+수요일(2/17) 실습자료 받기
+```
+git clone https://github.com/starcell/edu-2-movie.git
+```
+```
+./edu-2-movie/edu-movie-notebook.sh
+```
+
