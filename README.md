@@ -15,3 +15,10 @@ git clone https://github.com/starcell/edu-2-movie.git
 ./edu-2-movie/edu-movie-notebook.sh
 ```
 
+목, 금요일(2/18, 19) 실습자료 받기
+```
+git clone https://github.com/starcell/edu-3-thin-film.git
+```
+```
+./edu-3-thin-film/edu-movie-notebook.sh
+```
