@@ -20,5 +20,5 @@ git clone https://github.com/starcell/edu-2-movie.git
 git clone https://github.com/starcell/edu-3-thin-film.git
 ```
 ```
-./edu-3-thin-film/edu-movie-notebook.sh
+./edu-3-thin-film/edu-thin-film-notebook.sh
 ```
