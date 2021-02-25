@@ -4,7 +4,10 @@
 
 ## branc test
 
+## TEST 1회
+
 첫날(2/15) 실습자료 받기
+
 ```
 git clone https://github.com/starcell/edu-1-spam.git
 ```
