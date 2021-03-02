@@ -1,35 +1,15 @@
-# ssu 2021/02/15 ~ 19 교육 자료  
-
-## 강병권 브랜치
-
-## branc test
-
-## TEST 1회
-
-## TEST 2
+#
+# (주)스타셀 딥러닝 강좌 실습환경 구축
+#### 실습 환경은 "도커 가상화" 기반으로 하여 Jupyter lab/notebook 통해 쉽게 딥러닝 실습을 진행할 수 있습니다.
 
 
-첫날(2/15) 실습자료 받기
 
-```
-git clone https://github.com/starcell/edu-1-spam.git
-```
-```
-./edu-1-spam/edu-spam-notebook.sh
-```
 
-수요일(2/17) 실습자료 받기
-```
-git clone https://github.com/starcell/edu-2-movie.git
-```
-```
-./edu-2-movie/edu-movie-notebook.sh
-```
+## [숭실대학교](SSU/README.MD)
+* * *
+ 
+### 강좌 : I. 인공지능과 스마트 모빌리티 (2021. 02 .01 ~ 05)
 
-목, 금요일(2/18, 19) 실습자료 받기
-```
-git clone https://github.com/starcell/edu-3-thin-film.git
-```
-```
-./edu-3-thin-film/edu-thin-film-notebook.sh
-```
+### 강좌 : II. 딥러닝을 이용한 자연어 처리와 데이터 분석 (2021. 02 .15 ~ 19)
+#
+ 
