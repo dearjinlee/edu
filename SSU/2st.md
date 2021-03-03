@@ -48,3 +48,10 @@ docker pull starcell/edu-nlp-tf21-cpu:latest
 09.thin-train.sh
 ```
 
+#
+## 실습에 필요한 코드 파일은  다음과 같이 위치해야 합니다.
+```
+~/notebook/4.sms-spam
+~/notebook/5.movie-review
+~/notebook/6.thin-film
+```
