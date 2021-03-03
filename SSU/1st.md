@@ -1,7 +1,7 @@
 # I. 인공지능과 스마트 모빌리티
 * 실습에 필요한 각 이미지는 외부 인터넷이 가능해야 합니다.
 * 실습 스크립트는 1st-script에 있습니다.  
-#
+# 
 
 
 ## 1. 손글씨 인식 딥러닝
@@ -72,4 +72,13 @@ docker pull starcell/edu-ov2021.2:latest
 - 추론용
 ```
 06.tl-inf.sh
+```
+
+#
+## 실습에 필요한 코드 파일은  다음과 같이 위치해야 합니다.
+```
+~/notebook/1.mnist
+~/notebook/2.cifar10
+~/notebook/3.tl
+~/notebook/exe-file
 ```
